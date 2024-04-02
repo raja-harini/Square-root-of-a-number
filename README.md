@@ -29,7 +29,6 @@ a=int(input())
 n_iter=100
 n=newton_method(a,n_iter)
 print(f"Square root of the number: {n}")
-*/
 ```
 
 ## Output:
